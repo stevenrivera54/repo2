@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 98E7-0493
-
- Directory of C:\Users\steve\OneDrive\Desktop\GitProjFolder
-
-03/17/2020  06:31 PM    <DIR>          .
-03/17/2020  06:31 PM    <DIR>          ..
-03/17/2020  06:31 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  55,513,391,104 bytes free
+change 1
